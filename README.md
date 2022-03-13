@@ -5,3 +5,8 @@ This allows for others that are developing our team project to work on the exist
 
 Documentation can be found in the "8508 PhysX Documentation" file or at: 
 https://docs.google.com/document/d/15Zsw6ItS5m1q5gB5k9gF6DJSgR7JpQIrI-aWnQrtdZA/edit?usp=sharing
+
+
+
+https://user-images.githubusercontent.com/45948202/158083992-50a6ebc7-2c54-468d-8e22-b7827056ac44.mp4
+
